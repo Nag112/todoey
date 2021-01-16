@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Todo application built using FLutter SDK, Provider package is used to manage state and Hive database is used to store the persistent data locally .
 
 A few resources to get you started if this is your first Flutter project:
 
